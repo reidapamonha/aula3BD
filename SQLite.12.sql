@@ -1,0 +1,1 @@
+select * from curiosidades_paris2024 order by curiosidade desc;
